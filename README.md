@@ -1,1 +1,1 @@
-# cleanbrain-fastcampus-java-web-master-spring
+# fastcampus-java-web-master-spring
